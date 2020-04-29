@@ -5,19 +5,19 @@ layout: archive
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].education_label | default: "Education" }}</h3>
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">{{ site.data.ui-text[site.locale].education1_name | default: "State University of the Republic of Moldova" }}</h2>
+    <p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education1_description | default: "Chemistry" }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education1_date | default: "1997-1999" }}</p>
 
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education1_name | default: "State University of the Republic of Moldova" }}</p>
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education1_description | default: "Chemistry" }}</p>
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education1_date | default: "1997-1999" }}</p>
+    <h2 class="archive__item-title" itemprop="headline">{{ site.data.ui-text[site.locale].education2_name | default: "Penn Foster College" }}</h2>
+    <p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education2_description | default: "Business Management with option Finance" }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education2_date | default: "2006-2012" }}</p>
 
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education2_name | default: "Penn Foster College" }}</p>
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education2_description | default: "Business Management with option Finance" }}</p>
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education2_date | default: "2006-2012" }}</p>
-
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education3_name | default: "JavaRush" }}</p>
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education3_description | default: "Java Programming" }}</p>
-<p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education3_date | default: "2018-2020" }}</p>
-
+    <h2 class="archive__item-title" itemprop="headline">{{ site.data.ui-text[site.locale].education3_name | default: "JavaRush" }}</h2>
+    <p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education3_description | default: "Java Programming" }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ site.data.ui-text[site.locale].education3_date | default: "2018-2020" }}</p>
+</article>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].experience_label | default: "Work experience" }}</h3>
 
