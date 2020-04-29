@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ru-RU"
+locale                   : "en-US"
 title                    : "Resume CV"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -267,19 +267,6 @@ compress_html:
 
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-
 defaults:
   # _pages
   - scope:
