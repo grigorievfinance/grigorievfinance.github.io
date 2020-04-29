@@ -49,6 +49,9 @@ en: &DEFAULT_EN
   search_placeholder_text    : "Enter your search term..."
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
+  education_label            : "Education"
+  experience_label           : "Work experience"
+  projects_label           : "Own projects"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -677,6 +680,9 @@ ru: &DEFAULT_RU
   search_label_text          :
   search_placeholder_text    : "Введите поисковый запрос..."
   results_found              : "Найдено"
+  education_label            : "Образование"
+  experience_label           : "Опыт работы"
+  projects_label             : "Собственные проекты"
 ru-RU:
   <<: *DEFAULT_RU
 
