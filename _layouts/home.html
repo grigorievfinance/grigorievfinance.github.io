@@ -23,3 +23,16 @@ layout: archive
 
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].projects_label | default: "Own projects" }}</h3>
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h3 class="archive__item-title" itemprop="headline">{{ site.data.ui-text[site.locale].project1_name | default: "Grigoriev Finance Ltd." }}</h3>
+    <p class="visible-links">{{ site.data.ui-text[site.locale].project1_link | default: "https://www.grigorievfinance.com" }}</p>
+    <p class="sidebar__right">{{ site.data.ui-text[site.locale].project1_foundation | default: "2007" }}</p>
+
+    <h3 class="archive__item-title" itemprop="headline">{{ site.data.ui-text[site.locale].project2_name | default: "Neural Predictor" }}</h3>
+    <p class="visible-links">{{ site.data.ui-text[site.locale].project2_link | default: "https://github.com/grigorievfinance/NeuralPredictor" }}</p>
+    <p class="sidebar__right">{{ site.data.ui-text[site.locale].project2_foundation | default: "2012" }}</p>
+
+    <h3 class="archive__item-title" itemprop="headline">{{ site.data.ui-text[site.locale].project3_name | default: "Making Landing" }}</h3>
+    <p class="visible-links">{{ site.data.ui-text[site.locale].project3_link | default: "https://www.making-landing.ru/" }}</p>
+    <p class="sidebar__right">{{ site.data.ui-text[site.locale].project3_foundation | default: "2018" }}</p>
+</article>

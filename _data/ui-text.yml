@@ -61,6 +61,15 @@ en: &DEFAULT_EN
   education3_name            : "JavaRush"
   education3_description     : "Java Programming"
   education3_date            : "2018-2020"
+  project1_name              : "Grigoriev Finance Ltd."
+  project1_link              : "https://www.grigorievfinance.com"
+  project1_foundation        : "2007"
+  project2_name              : "Neural Predictor"
+  project2_link              : "https://github.com/grigorievfinance/NeuralPredictor"
+  project2_foundation        : "2012"
+  project3_name              : "Making Landing"
+  project3_link              : "https://www.making-landing.ru"
+  project3_foundation        : "2018"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
