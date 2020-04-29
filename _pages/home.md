@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>minimal-mistakes/home.md at gh-pages-3.1.6 · mmistakes/minimal-mistakes</title>
+  <title>minimal-mistakes/sample-page.md at gh-pages-3.1.6 · mmistakes/minimal-mistakes</title>
     <meta name="description" content=":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. - mmistakes/minimal-mistakes">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://repository-images.githubusercontent.com/10267810/d1fef380-295f-11ea-8516-54a3750c46b7" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="mmistakes/minimal-mistakes" /><meta property="og:url" content="https://github.com/mmistakes/minimal-mistakes" /><meta property="og:description" content=":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. - mmistakes/minimal-mistakes" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTIwNzc0NzM3OmNiMDY5OThmZWY4M2ZlMDFiNTYwYTM0MjcyMTFhNDkxYjAzYTNhYzIyMDlkZTdiM2Q4NjUzNzJhZDE3Mzg0MGM=--97ab82b844b3dfd8ef7107d8c704c0817dcd3508">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTIwNzc0NzM3OmIwYzMwMDIxNGI4NzBlYmMzZDQ3ZjJmYTUwODU5ZjRkNTE4YjZhM2ZkZDEyN2Q4Y2RmMzViZmE3ZjQ3ZDVmOGM=--e43652e233675d4723de6462e6f14c3a4f70626d">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="5AAD:3A08C:234F55:3171B2:5EA95093" data-pjax-transient="true" /><meta name="html-safe-nonce" content="4111bf3b317c9a611956bf043b977aef081be3a5" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tbWlzdGFrZXMvbWluaW1hbC1taXN0YWtlcy90cmVlL2doLXBhZ2VzLTMuMS42L19wYWdlcyIsInJlcXVlc3RfaWQiOiI1QUFEOjNBMDhDOjIzNEY1NTozMTcxQjI6NUVBOTUwOTMiLCJ2aXNpdG9yX2lkIjoiODIyMTQyNDEzNzUyNzI0NjQxIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="43650f3a006f4d14292077d20f9888a2936ee30c4e054ce6f2e3711b6f82d51b" data-pjax-transient="true" />
+  <meta name="request-id" content="5C1E:1AEF3:B62FD0:105FDC3:5EA9530B" data-pjax-transient="true" /><meta name="html-safe-nonce" content="4111bf3b317c9a611956bf043b977aef081be3a5" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tbWlzdGFrZXMvbWluaW1hbC1taXN0YWtlcy90cmVlL2doLXBhZ2VzLTMuMS42L19wYWdlcyIsInJlcXVlc3RfaWQiOiI1QzFFOjFBRUYzOkI2MkZEMDoxMDVGREMzOjVFQTk1MzBCIiwidmlzaXRvcl9pZCI6IjgyMjE0MjQxMzc1MjcyNDY0MSIsInJlZ2lvbl9lZGdlIjoiYW1zIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="a8e8353cf4de4205876a7fc88af9f96d77738fdd7cd3ff6bcaf556e1916e2f01" data-pjax-transient="true" />
 
 
 
@@ -76,7 +76,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MzA3NjAyMDEwOWM3M2U4ZDdhMGFmNjhmYjJiMjgwYWY5NzViYTFjN2VjNTIyYTY2YWVlYTNjZDUwMmIyODBlOXx7InJlbW90ZV9hZGRyZXNzIjoiMTA5LjE4NS4xNTIuNyIsInJlcXVlc3RfaWQiOiI1QUFEOjNBMDhDOjIzNEY1NTozMTcxQjI6NUVBOTUwOTMiLCJ0aW1lc3RhbXAiOjE1ODgxNTQ1MjYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="ZjFjZTliMWU3NTIwNDgyYTg1MzU1YmM4MDY1OTI0ZTQ3MzJjZDkyYmRkZDk3OTc1ZmNhYmQzMmU2NTY5OTZkMHx7InJlbW90ZV9hZGRyZXNzIjoiMTA5LjE4NS4xNTIuNyIsInJlcXVlc3RfaWQiOiI1QzFFOjFBRUYzOkI2MkZEMDoxMDVGREMzOjVFQTk1MzBCIiwidGltZXN0YW1wIjoxNTg4MTU1MTUyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
 
@@ -90,7 +90,7 @@
   <meta name="octolytics-dimension-user_id" content="1376749" /><meta name="octolytics-dimension-user_login" content="mmistakes" /><meta name="octolytics-dimension-repository_id" content="10267810" /><meta name="octolytics-dimension-repository_nwo" content="mmistakes/minimal-mistakes" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="10267810" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mmistakes/minimal-mistakes" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -164,7 +164,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="4OCHa5nSDuvQW0L2f/0bK94RH9kqIqKCv9Bpg2vGOq4w6Ej53I/QyPbcbuYiL+JeA6vAjc9ZhBwjv1AWRZeTRQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="ww8GK5ooBBUpBJjoJQk7U/bCm+SxPC9QnkRETIiUt9QTB8m533XaNg+DtPh428ImK3hEsFRHCc4CK33ZpsUePw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -315,7 +315,7 @@
       <img class="avatar avatar-user" height="20" width="20" alt="@grigorievfinance" src="https://avatars0.githubusercontent.com/u/13207196?s=60&amp;u=e0fa51ca4e6b2a3cc6f0d5b36cb5b2c72a6b4a28&amp;v=4" />
       grigorievfinance
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pe46LMnkHAPXoR7gbW5ZyH4zropYfw0l0PQtHqJoDA8xrgCuc/CX0hlrFzkLCqb4pFUWHCs/6/SgHq84jY3YHw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="x9PyFB5E21aQhgs3lAz0utRQ7A5JzfSE/exzAc5unQRTk8iWpFBQh15MAu7yaAuKDjZUmDqNElWNBvEn4YtJFA==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-3 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 17" version="1.1" width="16" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"></path></svg>
         Sign out
@@ -412,7 +412,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1376749,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:13207196,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;}}" data-hydro-click-hmac="4f01f0b154ab02bd7418f5adbb48773bcd7e4b8909f112e78100ee5b15391344">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1376749,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:13207196,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;}}" data-hydro-click-hmac="a6e3f2a6a1e615c95ff128078e1c6798d77ae7919cf8737f804da638df4ecdf2">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -439,7 +439,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ReVULmPYM/nf2XVaGwNpMGxnpQ1jabSVwQ5qxpvf7jaG/aP+iEuttAGdrKEvKBYxawzea/q4qTlCSwfFXOY5LQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="77vc2VKsd3EdCxikfxnwMtTqRs3A+le1uHUz8Az3DbwsoysJuT/pPMNPwV9LMo8z04E9q1krShk7MF7zy87apw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -557,17 +557,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-04-29T13:32:06+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-04-29T13:42:32+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-04-29T14:02:06+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-04-29T14:12:32+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-04-29T17:02:06+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-04-29T17:12:32+03:00">
             in 4 hours
           </button>
         </li>
@@ -624,10 +624,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/grigorievfinance/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}"
-    data-feature-preview-close-hmac="9804b22a30f1638d6fe42b86bc09873a16a81bcc6c157c5b309027e663544f86"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}"
-    data-hydro-click-hmac="2bcfe8dc02c7834c380b7a78ebbe67f5f47adcc85eb8fd273dcb60841d47c998"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}"
+    data-feature-preview-close-hmac="c5cd6437cc99dbc05db3ad1150660ce669e1b32990b467cf08f71fd10fe04e12"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}"
+    data-hydro-click-hmac="a17c49126a0ed6ef1055956c5f78d2ddaf39b38156bc52dca42114301b496130"
   >
     Feature preview
   </button>
@@ -636,12 +636,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aWvnJVPGVGCVCT8iwFDVQjHTILG544md3v6DTY8hKez9K92n6dLfsVvDNvumNCpy67WYJ8qjb0yuFAFroMT9/A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z2llhI8xtRA6KVuGWQROpdw7smdjCqsxNmgiVphXHmTzKV8GNSU+wfTjUl8/YLGVBl0K8RBKTeBGgqBwt7LKdA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_8c3d" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1588154526825" class="form-control" /><input type="hidden" name="timestamp_secret" value="db0caa3adaac203220083ab10bc01cf5710825ed7d1f32ced631d8926b99bc4e" class="form-control" />
+      <input type="text" name="required_field_607a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1588155152291" class="form-control" /><input type="hidden" name="timestamp_secret" value="c368bd809a1a6520b671f923aa652f59eee5b25a93adc704bfe9cb6ce34ccd68" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -698,10 +698,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="c8135d5b4481d62445706cd52e4a29cb7ec66128cdc55811b71cc98d6f7c2027" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="4ad40484f17c5d15f16ef9d14fe3a5341899981d30cb8237c8ba99ad0a0cb5d4" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="9WdIN3ScW1gnRmJ/mNThSx98uCjZFhE3QWqdmF/CWyBVbw624oCbtoORotWQjKgJb/QwPsVlKoMHkpCtrWSdwg==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="382ae6771eb6cf1103e516ef48ec2889d655e144f5dd5721e788e6715f97ef67">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="uNJeweewFTEwoHs+zg2XNZPYCSDS3rEDt5gGJBDVGuIY2hhAcazV35R3u5TGVd5341CBNs6tirfxYAsR4nPcAA==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="fdf73c24dcabb58211703b994e8ca450a4ddd037a094f7b369bbb93ecf957076">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
 </button></form>  </div>
 </div>
@@ -802,10 +802,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="b57ddrTKMwb9slwXWwOlr+2wR4e4cOqELun2DS/UlLAw84nHOJ75w3n3KCcADvROqRLU8aVNFtSbr1tCPL1ReQ==" />      <input type="hidden" name="repository_id" value="10267810">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AqSkaA+l/1OVD6FYY5iKnqFtoxla1q11mRPiz4r0cFxdyfDZg/E1lhFK1Wg4ldt/5c8wb0frUSUsVU+AmZ21lQ==" />      <input type="hidden" name="repository_id" value="10267810">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="521195a40ee54dc568cfa9f71c7b39819d42eadb30856e2e37ab6df55507a064" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="cf3dbe6ecb5c3107cd3440dbc15582abb5c7b65ed6ece782a275bce226e79849" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
               Watch
           </span>
@@ -876,9 +876,9 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/mmistakes/minimal-mistakes/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+Lpu4YMJzX+n0CT3DZnMY2HKkP0czpVHa4e46UP9LzIgFjEqrbxx6h+C147LjP/YQgKaMKW1WRzzK1Vh81PutA==" />
+    <form class="starred js-social-form" action="/mmistakes/minimal-mistakes/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fE+fpDiFdBdzDlnAG+l3XB2XoHXBM8WBwWcjL0eUTDWk48BvFjDIgstcqrnd/ETnPl+quHhICdpZy86n9zqNsw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar mmistakes/minimal-mistakes" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="8bbe83f87c466baf70d653e64ac2c548cb7e72bcfa4ff209a324477c3a25721d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar mmistakes/minimal-mistakes" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="f086fba1b4c4062efcdb93b81e65789ca0effba258493349777952546d6d02fc" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
         Unstar
 </button>        <a class="social-count js-social-count" href="/mmistakes/minimal-mistakes/stargazers"
@@ -886,9 +886,9 @@
            6.4k
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/mmistakes/minimal-mistakes/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zdxewPgfR+dSnurES3mELQyAkBlDfef0scA9WFo3e89E14Dr8f2vmHFskom37BSNWM9+KVTGPxRoY7f2NJxELA==" />
+    <form class="unstarred js-social-form" action="/mmistakes/minimal-mistakes/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SZl45A6Um81cOIKIAyeJVlw5x3m0QJzhi8QJ7kA0YnLAkqbPB3Zzsn/K+sX/shn2CHYpSaP7RAFSZ4NALp9dkQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star mmistakes/minimal-mistakes" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="be061cd27fb3a8995c5ee1656e502113dfe2f12490266de1559d02aea71d1f2b" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star mmistakes/minimal-mistakes" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="d329cb7e0bfc276159c1f31b7f07de32c6c884853b66bfb68836f7cee977b30f" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
         Star
 </button>        <a class="social-count js-social-count" href="/mmistakes/minimal-mistakes/stargazers"
@@ -900,12 +900,12 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/mmistakes/minimal-mistakes/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lJJjDzF5T9VWUrTcvLK49eyT7Iq1wR6TXgI1Pnxer19EyIRVhvmLCjtQhj3bbTSn5hwxwhkIVbaV52TkYJ1b5w==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="82dd2145e6f235379059db62ec0a47a9a7ca0ac7a79ed7112dfc05fb39fc3570" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of mmistakes/minimal-mistakes to your account" aria-label="Fork your own copy of mmistakes/minimal-mistakes to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/mmistakes/minimal-mistakes/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PsLxuWViMxuKHo7J0Gm5qrJlBp06eGHMBEgBrgQYedXumBbj0uL3xOccvCi3tjX4uOrb1ZaxKunPrVB0GNuNbQ==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:10267810,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}" data-hydro-click-hmac="dfca07bea687b5c57714efc6d939f3413a555d9569533e2d4e50ba25414b7594" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of mmistakes/minimal-mistakes to your account" aria-label="Fork your own copy of mmistakes/minimal-mistakes to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
               Fork
 </button></form>
     <a href="/mmistakes/minimal-mistakes/network/members" class="social-count"
-       aria-label="10914 users forked this repository">
+       aria-label="10915 users forked this repository">
       10.9k
     </a>
   </li>
@@ -1047,9 +1047,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mmistakes/minimal-mistakes/blob/1f1aa440b171b711f4eae360d1d4b82fd2cae4c7/_pages/home.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mmistakes/minimal-mistakes/blob/1f1aa440b171b711f4eae360d1d4b82fd2cae4c7/_pages/sample-page.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:8199edebe27de69049d9f9941d3ecf73 -->
+    <!-- blob contrib key: blob_contributors:v22:8b59759d4b9e8f393ea7474272702a03 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -1064,7 +1064,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/mmistakes/minimal-mistakes/refs/gh-pages-3.1.6/_pages/home.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/mmistakes/minimal-mistakes/refs/gh-pages-3.1.6/_pages/sample-page.md?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -1080,13 +1080,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="_pages/home.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="_pages/sample-page.md" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6"><span>minimal-mistakes</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6/_pages"><span>_pages</span></a></span><span class="separator">/</span><strong class="final-path">home.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6"><span>minimal-mistakes</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6/_pages"><span>_pages</span></a></span><span class="separator">/</span><strong class="final-path">sample-page.md</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -1096,7 +1096,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="_pages/home.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="_pages/sample-page.md" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1104,7 +1104,7 @@
 
 
 
-    <include-fragment src="/mmistakes/minimal-mistakes/contributors/gh-pages-3.1.6/_pages/home.md" class="Box Box--condensed commit-loader">
+    <include-fragment src="/mmistakes/minimal-mistakes/contributors/gh-pages-3.1.6/_pages/sample-page.md" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -1125,36 +1125,36 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      38 lines (36 sloc)
+      15 lines (10 sloc)
       <span class="file-info-divider"></span>
-    2.42 KB
+    908 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/mmistakes/minimal-mistakes/raw/gh-pages-3.1.6/_pages/home.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/mmistakes/minimal-mistakes/blame/gh-pages-3.1.6/_pages/home.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/mmistakes/minimal-mistakes/commits/gh-pages-3.1.6/_pages/home.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/mmistakes/minimal-mistakes/raw/gh-pages-3.1.6/_pages/sample-page.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/mmistakes/minimal-mistakes/blame/gh-pages-3.1.6/_pages/sample-page.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/mmistakes/minimal-mistakes/commits/gh-pages-3.1.6/_pages/sample-page.md">History</a>
     </div>
 
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/mmistakes/minimal-mistakes?branch=gh-pages-3.1.6&amp;filepath=_pages%2Fhome.md"
+             href="x-github-client://openRepo/https://github.com/mmistakes/minimal-mistakes?branch=gh-pages-3.1.6&amp;filepath=_pages%2Fsample-page.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/mmistakes/minimal-mistakes/edit/gh-pages-3.1.6/_pages/home.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IIHnh26s6R52KTA4rhjsAL78Oltlo8LNknOUa0+ubPzR78AhI3G/CYv3ke8vVruWxgOqa2BwU6QHtALvSuCsKw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/mmistakes/minimal-mistakes/edit/gh-pages-3.1.6/_pages/sample-page.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mNBl2fY0cbM7Rwmt/ho5Darvd6bCzutBHsFxBVB3cASQiY1v+2C2cYs6QuGGd8L+wR2os8ueesrezYUhEj3eqQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/mmistakes/minimal-mistakes/delete/gh-pages-3.1.6/_pages/home.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e1a5iNb/08A6Nqc7VnlTgY8SgyX8C8m7x7aJ9mxn8KAv/BfGZqvIjsEBHdfGHcL3Nf62tyqe3watfW/lFcRZfQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/mmistakes/minimal-mistakes/delete/gh-pages-3.1.6/_pages/sample-page.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="x5ps49c5f3zZY31PBAibeF03YBCeGOmEJ37kpWUijqhGi9xPXHXvCsyiZCBKPSXs8AyPFSJNTp9NidAYx3YUnA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -1170,163 +1170,29 @@
     <article class="markdown-body entry-content" itemprop="text"><table data-table-type="yaml-metadata">
   <thead>
   <tr>
-  <th>layout</th>
+  <th>title</th>
   <th>permalink</th>
-  <th>header</th>
-  <th>excerpt</th>
-  <th>feature_row</th>
-  <th>github</th>
-  <th>intro</th>
+  <th>date</th>
   </tr>
   </thead>
   <tbody>
   <tr>
-  <td><div>splash</div></td>
-  <td><div>/</div></td>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>overlay_color</th>
-  <th>overlay_image</th>
-  <th>cta_label</th>
-  <th>cta_url</th>
-  <th>caption</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>#5e616c</div></td>
-  <td><div>mm-home-page-feature.jpg</div></td>
-  <td><div>&lt;i class='fa fa-download'&gt;&lt;/i&gt; Install Now</div></td>
-  <td><div>/docs/quick-start-guide/</div></td>
-  <td><div></div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div>A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.&lt;br /&gt; &lt;small&gt;&lt;a href="<a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8&quot;&gt;Latest">https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8"&gt;Latest</a> release v3.4.8&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&lt;br /&gt; {::nomarkdown}&lt;iframe style="display: inline-block;" src="<a href="https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=star&amp;count=true&amp;size=large" rel="nofollow">https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=star&amp;count=true&amp;size=large</a>" frameborder="0" scrolling="0" width="160px" height="30px"&gt;&lt;/iframe&gt; &lt;iframe style="display: inline-block;" src="<a href="https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=fork&amp;count=true&amp;size=large" rel="nofollow">https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=fork&amp;count=true&amp;size=large</a>" frameborder="0" scrolling="0" width="158px" height="30px"&gt;&lt;/iframe&gt;{:/nomarkdown}</div></td>
-  <td><div><table>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>image_path</th>
-  <th>alt</th>
-  <th>title</th>
-  <th>excerpt</th>
-  <th>url</th>
-  <th>btn_label</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>mm-customizable-feature.png</div></td>
-  <td><div>customizable</div></td>
-  <td><div>Super Customizable</div></td>
-  <td><div>Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter.</div></td>
-  <td><div>/docs/configuration/</div></td>
-  <td><div>Learn More</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>image_path</th>
-  <th>alt</th>
-  <th>title</th>
-  <th>excerpt</th>
-  <th>url</th>
-  <th>btn_label</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>mm-responsive-feature.png</div></td>
-  <td><div>fully responsive</div></td>
-  <td><div>Responsive Layouts</div></td>
-  <td><div>Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content.</div></td>
-  <td><div>/docs/layouts/</div></td>
-  <td><div>Learn More</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>image_path</th>
-  <th>alt</th>
-  <th>title</th>
-  <th>excerpt</th>
-  <th>url</th>
-  <th>btn_label</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>mm-free-feature.png</div></td>
-  <td><div>100% free</div></td>
-  <td><div>100% Free</div></td>
-  <td><div>Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!</div></td>
-  <td><div>/docs/license/</div></td>
-  <td><div>Learn More</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div><table>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>excerpt</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>{::nomarkdown}&lt;iframe style="display: inline-block;" src="<a href="https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=star&amp;count=true&amp;size=large" rel="nofollow">https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=star&amp;count=true&amp;size=large</a>" frameborder="0" scrolling="0" width="160px" height="30px"&gt;&lt;/iframe&gt; &lt;iframe style="display: inline-block;" src="<a href="https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=fork&amp;count=true&amp;size=large" rel="nofollow">https://ghbtns.com/github-btn.html?user=mmistakes&amp;repo=minimal-mistakes&amp;type=fork&amp;count=true&amp;size=large</a>" frameborder="0" scrolling="0" width="158px" height="30px"&gt;&lt;/iframe&gt;{:/nomarkdown}</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div><table>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>excerpt</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>Get notified when I add new stuff &amp;nbsp; [&lt;i class="fa fa-twitter"&gt;&lt;/i&gt; @mmistakes](<a href="https://twitter.com/mmistakes){" rel="nofollow">https://twitter.com/mmistakes){</a>: .btn .btn--twitter}</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
+  <td><div>Sample Page</div></td>
+  <td><div>/sample-page/</div></td>
+  <td><div>2016-02-24 03:02:20 +0000</div></td>
   </tr>
   </tbody>
 </table>
 
-<p>{% include feature_row id="intro" type="center" %}</p>
-<p>{% include feature_row %}</p>
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<blockquote>
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)</p>
+</blockquote>
+<p>...or something like this:</p>
+<blockquote>
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+</blockquote>
+<p>You should probably delete this page and create new pages for your content. Have fun!</p>
 </article>
   </div>
 
@@ -1347,10 +1213,10 @@
      hidden
      data-tagsearch-url="/mmistakes/minimal-mistakes/find-symbols"
      data-tagsearch-ref="gh-pages-3.1.6"
-     data-tagsearch-path="_pages/home.md"
+     data-tagsearch-path="_pages/sample-page.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:10267810,&quot;ref&quot;:&quot;gh-pages-3.1.6&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/home.md&quot;,&quot;user_id&quot;:13207196}}"
-     data-hydro-click-hmac="01822c504e8b862ba9582c527d71d914eed53df62216378de709ccd1ee4b4563">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:10267810,&quot;ref&quot;:&quot;gh-pages-3.1.6&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/mmistakes/minimal-mistakes/blob/gh-pages-3.1.6/_pages/sample-page.md&quot;,&quot;user_id&quot;:13207196}}"
+     data-hydro-click-hmac="7648ce5507d1d043901aa2fe02e532661336919b7f893b5dc9b91c3797be0513">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
