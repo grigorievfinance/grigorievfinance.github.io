@@ -51,7 +51,16 @@ en: &DEFAULT_EN
   back_to_top                : "Back to top"
   education_label            : "Education"
   experience_label           : "Work experience"
-  projects_label           : "Own projects"
+  projects_label             : "Own projects"
+  education1_name            : "State University of the Republic of Moldova"
+  education1_description     : "Chemistry"
+  education1_date            : "1997-1999"
+  education2_name            : "Penn Foster College"
+  education2_description     : "Business Management with option Finance"
+  education3_date            : "2006-2012"
+  education3_name            : "JavaRush"
+  education3_description     : "Java Programming"
+  education3_date            : "2018-2020"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -683,6 +692,15 @@ ru: &DEFAULT_RU
   education_label            : "Образование"
   experience_label           : "Опыт работы"
   projects_label             : "Собственные проекты"
+  education1_name            : "Государственный университет республики Молдова"
+  education1_description     : "Химиический факультет"
+  education1_date            : "1997-1999"
+  education2_name            : "Penn Foster College"
+  education2_description     : "Business Management with option Finance"
+  education3_date            : "2006-2012"
+  education3_name            : "JavaRush"
+  education3_description     : "Программирование на Java"
+  education3_date            : "2018-2020"
 ru-RU:
   <<: *DEFAULT_RU
 
