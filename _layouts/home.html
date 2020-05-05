@@ -11,6 +11,13 @@ layout: archive
     </em></p>
 </article>
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].skills_label | default: "Summary" }}</h3>
+<article class="archive__item notice" itemscope itemtype="https://schema.org/CreativeWork">
+    <p><em>
+        {{ site.data.ui-text[site.locale].skills_text | default: "Lorem ipsum" }}
+    </em></p>
+</article>
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].experience_label | default: "Work experience" }}</h3>
 <article class="archive__item notice" itemscope itemtype="https://schema.org/CreativeWork">
     <h2>{{ site.data.ui-text[site.locale].work1_date | default: "1999-2004" }}</h2>
