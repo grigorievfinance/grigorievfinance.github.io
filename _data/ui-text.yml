@@ -54,7 +54,7 @@ en: &DEFAULT_EN
   projects_label             : "Own projects"
   summary_label              : "Summary"
   skills_label               : "Skills"
-  summary_text               : "Result oriented Java Developer. Motto - "i don't need to know everything i just need to know where to find it when i need it". Easy-learner. Open for new knowledge, experience, communication. Favorite activity - solving business problems using Java"
+  summary_text               : "Result oriented Java Developer. Motto - i don't need to know everything i just need to know where to find it when i need it. Easy-learner. Open for new knowledge, experience, communication. Favorite activity - solving business problems using Java"
   skills_text                : "MS Office, MS Visual Studio, Intellij Idea, Android Studio, Unity3D, HTML, CSS, JavaScript, C#, PHP"
   education1_name            : "State University of the Republic of Moldova"
   education1_description     : "Chemistry"
