@@ -99,9 +99,9 @@ author:
   location         : "Moldova, Chisinau"
   email            : "grigorievfinance@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:grigorievfinance@gmail.com
+    - label: "Skype"
+      icon: "fas fa-fw fa-skype"
+      url: "skype:grigorievfinance? chat"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://andrewgrigoriev.ga/"
