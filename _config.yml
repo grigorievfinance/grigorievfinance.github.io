@@ -100,7 +100,7 @@ author:
   email            : "grigorievfinance@gmail.com"
   links:
     - label: "Skype"
-      icon: "fas fa-fw fa-skype"
+      icon: "fa fa-fw fa-skype"
       url: "skype:grigorievfinance? chat"
     - label: "Website"
       icon: "fas fa-fw fa-link"
