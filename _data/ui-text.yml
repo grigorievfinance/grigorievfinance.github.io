@@ -121,7 +121,7 @@ en: &DEFAULT_EN
   work6_date                 : "2022-2023"
   work7_name                 : "Quantum Rise"
   work7_function             : "Python developer"
-  work7_description          : "Inter exchanges connectors backend developer for TradingView. Back-end developer for market-data XROAD/FIX/Mercado/Bybit using multiprocessing Python/FastAPI/SQLAlchemy/Pandas/Websocket. Arbitrage Trading System backend developer. Stack: Python/FastAPI/SQLAlchemy/Pandas/Websocket/Numpy/Starlette/Uvicorn/Pydantic/APScheduler/Clickhouse/PostgreSQL/SQLite"
+  work7_description          : "Inter exchanges connectors backend developer for TradingView. Back-end developer for market-data XROAD/FIX/Mercado/Bybit using multiprocessing Python/FastAPI/SQLAlchemy/Pandas/Websocket. Arbitrage Trading System backend developer. Stack: Python, FastAPI, SQLAlchemy, Pandas, Websocket, Numpy, Starlette, Uvicorn, Pydantic, APScheduler, Clickhouse, PostgreSQL, SQLite"
   work7_date                 : "2023-2025"
 
 en-US:
